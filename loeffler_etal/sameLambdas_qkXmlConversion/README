@@ -1,0 +1,2 @@
+Josh Horton wrote a script that verified the conversion of the amber top to the .xml for openmm, with the check taking place before and after using the single energy points. 
+
